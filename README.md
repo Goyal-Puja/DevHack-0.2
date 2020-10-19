@@ -8,7 +8,7 @@ The first edition "DevHack-0.1" was organised in 2017 by 2K13 batch. This is the
 
 This online event begin from very basic tasks which can be done by anyone irrespective of their experience in dev. We will be also sharing relevant resources for doing these tasks.
 
-Coordinators for the event:<ul>
+Coordinators for the this event:<ul>
 <li> <a href="https://www.facebook.com/aayushsinha44">Aayush Sinha</a> </li>
 <li> <a href="https://www.facebook.com/sarthakgupta072">Sarthak Gupta</a> </li>
 </ul>
