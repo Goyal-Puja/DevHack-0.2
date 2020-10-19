@@ -30,7 +30,7 @@ Coordinators for the this event:<ul>
 <li>If you think that the resources given are not enough, read the previous point again. We just don't want to spoonfeed you. :) </li><br />
 
 
-<li>The points will be given to the teams in a relative manner of submissions.</li><br />
+<li>The points will be given to the teams in a relative manner of submissions..</li><br />
 
 
 <li>A good developer is a person who knows “How to search on internet”, “What to search on internet”, and “What to extract from the search results”. Searching is also a skill.
